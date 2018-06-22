@@ -6,6 +6,5 @@ Hugo G. B. da Silva -
 Lívia M. R. S. Campos - 
 Rohit Gheyi - 
 
-Link para o repositório: https://github.com/marcelovitorino/AnalisePremiados
 
 
